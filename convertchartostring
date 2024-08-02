@@ -1,0 +1,7 @@
+public class Main{
+    public static void main(String args[]){
+        char[] ch={'h','i'};
+        String name=new String(ch);
+        System.out.println("converted chartoString "+name);
+    }
+}
